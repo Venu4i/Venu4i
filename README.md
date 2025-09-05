@@ -1,4 +1,6 @@
-👋 Hi there!  
+👋 Hi!  
+Venu here!
+
 I'm a 2nd-year B.Tech student at MNNIT Allahabad, passionate about and Web development, CP and Machine Learning driven by curiosity to build meaningful tech solutions.  
 
 - ⚙️ I’m currently working on enhancing my web development projects and boosting my CP ratings 
